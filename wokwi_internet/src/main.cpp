@@ -79,7 +79,7 @@ void loop() {
 
     // Inisialisasi HTTPClient
     HTTPClient http;
-    String url = "http://82f7-103-121-22-216.ngrok-free.app/api/posts"; // Ganti dengan URL ngrok yang benar
+    String url = "http://29d8-103-125-36-67.ngrok-free.app/api/posts"; // Ganti dengan URL ngrok yang benar
 
 
     http.begin(url);  // Menggunakan HTTP, bukan HTTPS
